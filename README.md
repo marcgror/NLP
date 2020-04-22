@@ -1,1 +1,4 @@
 # RNNs
+Recurrent Neural Networks (RNNs) are networks that can predict the future (not as easy). In these examples, I will use them in different but significant tasks:
+- generate text: using some real text, one can train a RNN to generate some artificial text, that in some way, is similar to the real text or follows the same trends. Obviously, the more complex the model, the more difficult is to distinct between the real and the generated text.
+- sentimental analysis: based on some text (for example, movie reviews) and a sentimental label (positive or negative), a RNN can be trained to distinguish between positive or negative text, infering it from the text passed to the RNN.
